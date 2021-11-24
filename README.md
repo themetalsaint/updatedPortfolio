@@ -42,4 +42,4 @@ The "Resume" tab on the webpage's navigation bar will direct you to a PDF versio
 https://thompsonel11.github.io/Portfolio/
 
 ### GitHub Portfolio: 
-https://github.com/thompsonel11/Portfolio
+https://github.com/themetalsaint/updatedPortfolio

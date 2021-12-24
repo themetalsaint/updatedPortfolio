@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-The purpose of this webpage is to create a professional portfolio to display work, services offered, contact information, and information about myself. 
+The purpose of this webpage is to create a professional portfolio to display msome of my work, services offered, and contact information. 
 
 ## Navigation Bar
 

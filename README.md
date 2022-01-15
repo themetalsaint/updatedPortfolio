@@ -39,7 +39,7 @@ The "Resume" tab on the webpage's navigation bar will direct you to a PDF versio
 ![](assets/img/readMe/resume.png)
 
 ### Portfolio IO: 
-https://thompsonel11.github.io/Portfolio/
+
 
 ### GitHub Portfolio: 
 https://github.com/themetalsaint/updatedPortfolio

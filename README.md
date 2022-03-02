@@ -10,13 +10,13 @@ The navigation bar is located in the top, right portion of the webpage. When you
 
 ## About
 
-The "About" (me) portion of this webpage contains a photo, contact information, job title, a brief description of how I got to this point in my profession, and a list of skills I have acquired through education and work experience. This portion of the webpage can be accessed by clicking on the "about" tab on the navigation bar in the top, right portion of the webpage. 
+The About (me) portion of this webpage contains a photo, contact information, job title, a brief description of how I got to this point in my profession, and a list of skills I have acquired through education and work experience. This portion of the webpage can be accessed by clicking on the "about" tab on the navigation bar in the top, right portion of the webpage. 
 
 ![](assets/img/readMe/aboutMe.png)
 
 ## Services
 
-The "Services" portion of this webpage contains the professional services I offer as a web developer. The "Services" portion of this webpage can be easily accessed by selecting the "Services" tab on the navigation bar in the top, right portion of the webpage.  
+The Services portion of this webpage contains the professional services I offer as a web developer. The Services portion of this webpage can be easily accessed by selecting the Services tab on the navigation bar in the top, right portion of the webpage.  
 
 ![](assets/img/readMe/services.png)
 
@@ -28,18 +28,19 @@ The "Work" portion of this webpage contains three sample websites I have built. 
 
 ## Contact 
 
-The "Contact" portion of this webpage contains links to my LinkedIn, GitHub, and Instagram as well as my email, location, and phone number.  This portion of the webpage can be accessed by clicking on the "Contact" tab on the navigation bar in the top, right portion of the webpage. 
+The Contact portion of this webpage contains links to my LinkedIn and GitHub as well as my email, location, and phone number.  This portion of the webpage can be accessed by clicking on the "Contact" tab on the navigation bar in the top, right portion of the webpage. 
 
 ![](assets/img/readMe/contactInfo.png)
 
 ## Resume
 
-The "Resume" tab on the webpage's navigation bar will direct you to a PDF version of my resume that is located in my Google docs. 
+The Resume tab on the webpage's navigation bar will direct you to a PDF version of my resume that is located in my Google docs. 
 
 ![](assets/img/readMe/resume.png)
 
 ### Portfolio IO: 
 
+https://themetalsaint.github.io/updatedPortfolio/
 
 ### GitHub Portfolio: 
 https://github.com/themetalsaint/updatedPortfolio

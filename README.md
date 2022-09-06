@@ -1,6 +1,6 @@
 # Professional Portfolio
 
-The purpose of this webpage is to create a professional portfolio to display msome of my work, services offered, and contact information. 
+The purpose of this webpage is to create a professional portfolio to display some of my work, services offered, and contact information. 
 
 ## Navigation Bar
 
@@ -16,7 +16,7 @@ The About (me) portion of this webpage contains a photo, contact information, jo
 
 ## Services
 
-The Services portion of this webpage contains the professional services I offer as a web developer. The Services portion of this webpage can be easily accessed by selecting the Services tab on the navigation bar in the top, right portion of the webpage.  
+The Services portion of this webpage contains the professional services I offer as a web developer and is still a work in progress. The Services portion of this webpage can be easily accessed by selecting the Services tab on the navigation bar in the top, right portion of the webpage.
 
 ![](assets/img/readMe/services.png)
 
